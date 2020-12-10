@@ -1,6 +1,6 @@
 # SnowFlake_Board
 Circuito impreso navideño en forma de copo de nieve.
-# Descrición
+# Descripción
 Esta PCB es un copo de nieve para decorar tu arbolito navideño el cual encenderá led multicolor de destello lento
 # Lista de componentes
 Lista de componentes electrónicos usados:
